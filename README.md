@@ -1,1 +1,1 @@
-https://AdskiGonchi/github.io/Markdown/cv
+https://AdskiGonchi.github.io/Markdown/cv
